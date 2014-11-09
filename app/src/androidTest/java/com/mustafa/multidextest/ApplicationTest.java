@@ -1,4 +1,4 @@
-package com.mustafa.dexapplicationtest;
+package com.mustafa.multidextest;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
